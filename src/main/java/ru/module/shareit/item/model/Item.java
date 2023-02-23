@@ -1,4 +1,4 @@
-package ru.practicum.shareit.item.model;
+package ru.module.shareit.item.model;
 
 /**
  * TODO Sprint add-controllers.

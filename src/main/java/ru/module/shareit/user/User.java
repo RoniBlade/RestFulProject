@@ -1,4 +1,4 @@
-package ru.practicum.shareit.user;
+package ru.module.shareit.user;
 
 /**
  * TODO Sprint add-controllers.

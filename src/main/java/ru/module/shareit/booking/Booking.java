@@ -1,4 +1,4 @@
-package ru.practicum.shareit.booking;
+package ru.module.shareit.booking;
 
 /**
  * TODO Sprint add-bookings.
